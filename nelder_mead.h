@@ -36,6 +36,7 @@
  *    c) floating-point type and number of variables are now template arguments
  *    d) std::array is now used instead of pointers to raw arrays
  *    e) overall comments and code formatting
+ *    Switch to vectors 3 June 2025 Matthew Homes
  *
  *  Reference:
  *
