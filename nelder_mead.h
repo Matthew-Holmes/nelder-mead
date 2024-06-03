@@ -51,8 +51,10 @@
  *    Applied Statistics,
  *    Volume 20, Number 3, 1971, pages 338-345.
  *
- *    This C++ version is available at
+ *    Array based C++ version is available at
  *    https://github.com/develancer/nelder-mead/
+ *    Vector based fork:
+ *    https://github.com/Matthew-Holmes/nelder-mead/
  */
 #ifndef PTR_NELDER_MEAD_H
 #define PTR_NELDER_MEAD_H
